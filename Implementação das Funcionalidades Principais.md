@@ -1,5 +1,4 @@
 ## Documentação: Semana 3 - Sprint 2  
-**Período:** [Inserir datas]  
 **Objetivo:** Desenvolver as principais funcionalidades da aplicação.  
 
 ---
